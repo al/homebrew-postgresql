@@ -50,7 +50,7 @@ class PostgresqlAT12 < Formula
       --with-uuid=e2fs
       --with-pam
       --with-perl
-      --with-python
+      --without-python
       --with-tcl
       XML2_CONFIG=:
     ]
